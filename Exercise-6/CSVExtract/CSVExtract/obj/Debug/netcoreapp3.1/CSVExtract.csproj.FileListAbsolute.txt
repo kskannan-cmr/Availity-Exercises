@@ -1,0 +1,12 @@
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/bin/Debug/netcoreapp3.1/CSVExtract.deps.json
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/bin/Debug/netcoreapp3.1/CSVExtract.runtimeconfig.json
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/bin/Debug/netcoreapp3.1/CSVExtract.runtimeconfig.dev.json
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/bin/Debug/netcoreapp3.1/CSVExtract.dll
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/bin/Debug/netcoreapp3.1/CSVExtract.pdb
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/obj/Debug/netcoreapp3.1/CSVExtract.csprojAssemblyReference.cache
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/obj/Debug/netcoreapp3.1/CSVExtract.AssemblyInfoInputs.cache
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/obj/Debug/netcoreapp3.1/CSVExtract.AssemblyInfo.cs
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/obj/Debug/netcoreapp3.1/CSVExtract.csproj.CoreCompileInputs.cache
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/obj/Debug/netcoreapp3.1/CSVExtract.dll
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/obj/Debug/netcoreapp3.1/CSVExtract.pdb
+/Users/kannansrinivasan/Projects/CSVExtract/CSVExtract/obj/Debug/netcoreapp3.1/CSVExtract.genruntimeconfig.cache

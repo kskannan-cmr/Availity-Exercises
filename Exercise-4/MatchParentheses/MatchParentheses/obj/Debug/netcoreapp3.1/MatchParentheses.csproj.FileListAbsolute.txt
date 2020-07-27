@@ -1,0 +1,12 @@
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/bin/Debug/netcoreapp3.1/MatchParentheses.deps.json
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/bin/Debug/netcoreapp3.1/MatchParentheses.runtimeconfig.json
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/bin/Debug/netcoreapp3.1/MatchParentheses.runtimeconfig.dev.json
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/bin/Debug/netcoreapp3.1/MatchParentheses.dll
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/bin/Debug/netcoreapp3.1/MatchParentheses.pdb
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/obj/Debug/netcoreapp3.1/MatchParentheses.csprojAssemblyReference.cache
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/obj/Debug/netcoreapp3.1/MatchParentheses.AssemblyInfoInputs.cache
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/obj/Debug/netcoreapp3.1/MatchParentheses.AssemblyInfo.cs
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/obj/Debug/netcoreapp3.1/MatchParentheses.csproj.CoreCompileInputs.cache
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/obj/Debug/netcoreapp3.1/MatchParentheses.dll
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/obj/Debug/netcoreapp3.1/MatchParentheses.pdb
+/Users/kannansrinivasan/Projects/MatchParentheses/MatchParentheses/obj/Debug/netcoreapp3.1/MatchParentheses.genruntimeconfig.cache

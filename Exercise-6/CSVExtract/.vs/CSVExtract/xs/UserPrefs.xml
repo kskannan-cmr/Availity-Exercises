@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8C5ACD9F-096B-49DA-9EAB-16657623354A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSVExtract/Program.cs">
+    <Files>
+      <File FileName="CSVExtract/Program.cs" Line="12" Column="40" />
+      <File FileName="CSVExtract/ObjectShredder.cs" Line="171" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSVExtract PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

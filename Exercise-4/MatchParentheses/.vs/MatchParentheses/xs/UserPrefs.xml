@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E2405AB0-B5D5-41C6-AF8C-A4050F7FC631}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MatchParentheses/Program.cs">
+    <Files>
+      <File FileName="MatchParentheses/Program.cs" Line="62" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MatchParentheses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
